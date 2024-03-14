@@ -1,0 +1,47 @@
+.containerlogin{
+    width: 100%;
+     height: 100vh;
+     background-color: gainsboro; 
+     padding-top:100px;
+ }
+ .containerlogin2{
+    width: 580px;
+   height: 600px;
+   background:whitesmoke;
+   margin: auto;
+   padding:40px 60px;
+ }
+ .containerlogin2 h1{
+    margin: 20px 0px;
+   text-align: center;
+ }
+ .login-fields{
+    display: flex;
+    flex-direction: column;
+    gap: 29px;
+    margin-top: 30px;
+
+ }
+ .login-fields input{
+    height: 52px;
+    width: 100%;
+    padding-left: 20px;
+    border: 1px solid #c9c9c9;
+    outline: none;
+    color: #5c5c5c;
+    font-size: 18pzpx;
+ }
+ .containerlogin2 button{
+    width: 580px;
+    height: 72px;
+    color:white;
+    background: black;
+    margin-top: 30px;
+    border: none;
+    font-size: 24px;
+    font-weight: 500;
+    cursor: pointer;
+ }
+ .login-fields label{
+    font-size: 20px;
+ }

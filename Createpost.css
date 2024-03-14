@@ -1,0 +1,43 @@
+.createc1{
+    width: 100%;
+    height: 100vh;
+    background:gainsboro;
+    padding-top:100px ;
+}
+.createc2{
+    
+    width: 580px;
+    height: 600px;
+    background:whitesmoke;
+    margin: auto;
+    padding:40px 60px;
+}
+.createc3{
+    display: flex;
+    flex-direction: column;
+    gap: 29px;
+    margin-top: 30px;
+}
+.createc3 input{
+    height: 52px;
+    width: 100%;
+    padding-left: 20px;
+    border: 1px solid #c9c9c9;
+    outline: none;
+    color: #5c5c5c;
+    font-size: 18px;
+}
+.createc2 button{
+    width: 580px;
+    height: 72px;
+    color:white;
+    background: black;
+    margin-top: 30px;
+    border: none;
+    font-size: 24px;
+    font-weight: 500;
+    cursor: pointer;
+}
+.createc3 label{
+    font-size: 20px;
+}

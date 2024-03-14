@@ -1,0 +1,68 @@
+.container11{
+    /* display:inline-flexbox;
+    width: 100%;
+    height: 60vh;
+    background:whitesmoke; 
+    padding:1px;
+    word-spacing: 1rem;
+    font-size: 60px; */
+    background-color: whitesmoke;
+  width: 300px;
+  border: 15px solid white;
+  padding: 50px;
+  margin: 20px;
+  /* justify-content: center; */
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+}
+.containersview h1{
+    text-align: center;
+    background-color: white;
+}
+.abcd{
+    font-size: 25px;
+    color:aliceblue;
+    margin-top: auto;
+    line-height: normal;
+    letter-spacing: -0.04em;
+    font-weight: bold;
+    border: 4px solid;
+    box-sizing: border-box;
+    box-shadow: rgba(9, 30, 66, 0.25) 0 1px  1px inset, rgba(9, 30, 66, 0 )0 -1px  5px inset;
+    transition: all ease-in-out duration 0.1s;
+    transition: all ease-in-out 150ms;
+    width: 40%;
+  padding: 10px;
+  margin: auto;
+  text-align: center;
+}
+:hover.abcd{
+    transform: scale(1.08);
+}
+.titlecss{
+  text-align: center;
+  text-decoration:solid;
+  font-family: 'Raleway',sans-serif;
+}
+.contentcss{
+  text-align: center;
+  text-decoration:solid;
+  font-family: 'Raleway',sans-serif;
+}
+.btnpost button{
+  width: 280px;
+    height: 72px;
+    color:white;
+    background: black;
+    margin-left: 400px;
+    border: none;
+    font-size: 24px;
+    font-weight: 500;
+    cursor: pointer;
+    align-items: center;
+
+}
+.btnpost button:hover{
+  transform: scale(1.08);
+}
